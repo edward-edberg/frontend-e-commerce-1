@@ -1,2 +1,3 @@
 import Profile from "./Profile";
-export { Profile };
+import Navbar from "./Navbar";
+export { Profile, Navbar };
